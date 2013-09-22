@@ -1,0 +1,1 @@
+This is a repo containing the various exercises I've done at App Academy.
